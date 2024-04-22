@@ -1,0 +1,45 @@
+Basic Linked List Operations:
+Creating a linked list
+Inserting a node at the beginning/end/in between the list
+Deleting a node
+Searching for a node
+Traversing/printing the list
+Reversing the list
+Advanced Linked List Operations:
+Concatenating two linked lists
+Splitting a linked list into two halves
+Merging two sorted linked lists
+Detecting and removing loops in a linked list
+Finding the middle node of the list
+Circular Linked List Operations:
+Creating a circular linked list
+Inserting/deleting nodes in a circular linked list
+Traversing a circular linked list
+Detecting and removing loops in a circular linked list
+Doubly Linked List Operations:
+Creating a doubly linked list
+Inserting/deleting nodes in a doubly linked list
+Traversing a doubly linked list in both forward and backward directions
+Reversing a doubly linked list
+Applications of Linked Lists:
+Implementing stacks and queues using linked lists
+Polynomial addition using linked lists
+Sparse matrix representation using linked lists
+Large number addition/subtraction using linked lists
+Representing and evaluating arithmetic expressions using linked lists
+Memory Management with Linked Lists:
+Implementing memory allocation algorithms like malloc and free using linked lists
+Implementing dynamic memory management using linked lists (e.g., memory allocation and deallocation)
+Hashing with Linked Lists:
+Implementing hash tables with linked lists to handle collisions
+Resolving collisions using chaining (linked list implementation)
+Sorting Algorithms with Linked Lists:
+Implementing sorting algorithms like insertion sort, merge sort, or quick sort using linked lists
+Sorting large data sets stored in linked lists to conserve memory
+Graph Algorithms with Linked Lists:
+Representing graphs using adjacency lists (linked list of linked lists)
+Implementing graph algorithms like breadth-first search (BFS) and depth-first search (DFS) using linked lists
+File Handling with Linked Lists:
+Reading data from a file and storing it in a linked list
+Writing data from a linked list to a file
+Manipulating data in a file using linked lists (e.g., sorting, searching)
