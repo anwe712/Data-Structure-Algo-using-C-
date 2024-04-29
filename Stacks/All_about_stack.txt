@@ -1,0 +1,5 @@
+Stack is a linear data structure which has only one opening 
+it follows a lifo order - last in first out 
+it has some basic operations - push , pop , peek 
+items can be deleted/inserted from one end only 
+
